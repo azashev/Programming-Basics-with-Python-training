@@ -18,6 +18,7 @@ while True:
 
     if budget < 0:
         break
+
 if budget < 0:
     print(f"We need {abs(budget):.2f} leva for our actors.")
 else:
