@@ -1,5 +1,3 @@
-import sys
-
 titles = 0
 
 top_points = -9223372036854775807
