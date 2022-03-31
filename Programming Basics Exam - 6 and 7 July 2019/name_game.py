@@ -1,5 +1,3 @@
-import sys
-
 current_winner = ''
 points = 0
 
@@ -8,7 +6,7 @@ special_points = 0
 special_winner = ''
 condition = False
 
-max_result = -9223372036854775807
+max_result = 0
 
 while True:
     player = input()
