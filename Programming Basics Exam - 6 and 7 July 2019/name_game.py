@@ -1,7 +1,7 @@
 current_winner = ''
 points = 0
 
-#if there are equal records second player wins
+
 special_points = 0
 special_winner = ''
 condition = False
